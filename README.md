@@ -12,6 +12,9 @@ Library-Management-System-in-Python is a Python-based Command Line Interface (CL
 The project demonstrates core software engineering concepts, practices, modular programming, error handling, and version control using Git.
 # Screenshots
 
+<img width="1345" height="676" alt="image" src="https://github.com/user-attachments/assets/07b7f937-6844-4d97-8987-fd2d01cc9394" />
+
+<img width="1343" height="691" alt="image" src="https://github.com/user-attachments/assets/50a5fa82-5cfa-45f0-906f-0456311539cc" />
 
 
 # Clone the Repository:
