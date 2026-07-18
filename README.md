@@ -17,6 +17,9 @@ The project demonstrates core software engineering concepts, practices, modular 
 <img width="1343" height="691" alt="image" src="https://github.com/user-attachments/assets/50a5fa82-5cfa-45f0-906f-0456311539cc" />
 
 
+<img width="1344" height="573" alt="image" src="https://github.com/user-attachments/assets/73ad672c-2d71-40fc-a54d-3122933e995f" />
+
+
 # Clone the Repository:
 
 
