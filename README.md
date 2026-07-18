@@ -6,6 +6,13 @@ This project is a simple backend implementation of a Library Management System u
 Book Management: Add, edit, and delete books from the library database.
 Patron Management: Maintain records of library patrons and handle book issuance and return.
 Search and Retrieval: Provide basic search functionality for finding books by title or author.
+# Overview
+
+Library-Management-System-in-Python is a Python-based Command Line Interface (CLI) application designed to manage library resourcess.
+The project demonstrates core software engineering concepts, practices, modular programming, error handling, and version control using Git.
+# Screenshots
+
+
 
 # Clone the Repository:
 
@@ -42,4 +49,4 @@ Please ensure that your code adheres to the project's coding standards and conve
 This project is licensed under the MIT License.
 
 # Contact
-For any inquiries or feedback, please contact gihangreshan | gihangreshan4@gmail.com.
+For any inquiries or feedback, please contact gihangreshan | gihangreshan@gmail.com.
